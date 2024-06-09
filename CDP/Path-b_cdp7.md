@@ -215,7 +215,7 @@ cp -rp cdp7.11.3.0 /var/www/html
 ```
 [cloudera-repo]
 name=cloudera-repo
-baseurl= http://ec2-18-189-26-83.us-east-2.compute.amazonaws.com/cdp7.11.3.0/p/cm7.11.3.0-rhel7/
+baseurl= http://<private_ip>/cdp7.11.3.0/p/cm7.11.3.0-rhel7/
 enabled=1
 gpgcheck=0
 
