@@ -11,6 +11,12 @@ sudo yum install java-1.8.0-openjdk-devel.x86_64 -y
 
 ```
 
+### [Installing Python 3](https://docs.cloudera.com/cdp-private-cloud-base/7.1.9/installation/topics/cdpdc-cm-install-python-3.8.html)
+
+* Follow the below steps to install python on CentOS 7 [ReferHere](https://docs.cloudera.com/cdp-private-cloud-base/7.1.9/installation/topics/cdpdc-cm-install-python-3-centos.html)
+
+
+
 ### Kernal Tunning 
 
 * VM Swappiness
